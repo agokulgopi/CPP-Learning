@@ -1,0 +1,18 @@
+# Ignore compiled executables
+*.exe
+*.out
+*.o
+
+# Ignore IDE files
+*.vscode/
+*.idea/
+*.vs/
+
+# Ignore other build artifacts
+*.obj
+*.dll
+*.so
+*.dylib
+```
+
+This prevents accidentally pushing executable files.
